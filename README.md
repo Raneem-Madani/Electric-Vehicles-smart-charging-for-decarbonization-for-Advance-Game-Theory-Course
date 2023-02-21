@@ -1,2 +1,2 @@
 # Electric Vehicles Smart Charging for Decarbonization for Advance Game Theory Course
-The objective will be to consider a decentralized charging mechanism in order to get a "green" charging of a - pretty large set of Electric Vehicles: the fleet which is expected to be driving on the French roads in 2035-2050.
+In this proejct we are solving the supply-demand equilibrium in the electricity system as France will be moving to more electricaly operated cars so this mean a more demand has to be satised for this regard.
